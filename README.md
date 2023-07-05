@@ -1,6 +1,7 @@
 # ASCII_text
 
 ### ASCII 텍스트 생성기
+**텍스트를 넣으면 ASCII로 변환 합니다.**
 ```pip install pyfiglet```
 
 > font_list
